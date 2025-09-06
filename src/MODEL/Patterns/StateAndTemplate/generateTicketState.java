@@ -12,7 +12,7 @@ import MODEL.Patterns.Command.Manager.VolunteringManager;
 
 /**
  *
- * @author hussien
+ * @author Omar AbdulWahhab
  */
 public class generateTicketState implements EventJoiningState {
 

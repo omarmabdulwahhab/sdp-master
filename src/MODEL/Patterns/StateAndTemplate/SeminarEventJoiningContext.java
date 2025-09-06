@@ -9,7 +9,7 @@ import View.UserView;
 
 /**
  *
- * @author hussien
+ * @author Omar AbdulWahhab
  */
 // Seminar-specific event joining
 public class SeminarEventJoiningContext extends EventJoiningTemplateContext {

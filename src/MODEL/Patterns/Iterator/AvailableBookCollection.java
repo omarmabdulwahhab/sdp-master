@@ -10,7 +10,7 @@ import java.util.Map;
 
 /**
  *
- * @author hussien
+ * @author Omar AbdulWahhab
  */
 public class AvailableBookCollection implements BookCollection {
     

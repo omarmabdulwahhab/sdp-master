@@ -10,7 +10,7 @@ import MODEL.Patterns.Iterator.BorrowedBookCollection;
 
 /**
  *
- * @author hussien
+ * @author Omar AbdulWahhab
  */
 
 

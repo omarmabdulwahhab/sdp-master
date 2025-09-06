@@ -6,7 +6,7 @@ package MODEL.Patterns.State;
 
 /**
  *
- * @author hussien
+ * @author Omar AbdulWahhab
  */
 import java.util.HashMap;
 import java.util.Map;

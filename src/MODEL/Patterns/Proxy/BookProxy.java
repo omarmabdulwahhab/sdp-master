@@ -9,7 +9,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Eslam
+ * @author AbdulHay
  */
 public class BookProxy implements IBook {
     private RealBook realBook;

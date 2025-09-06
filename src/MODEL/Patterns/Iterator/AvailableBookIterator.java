@@ -11,7 +11,7 @@ import java.util.NoSuchElementException;
 
 /**
  *
- * @author hussien
+ * @author Omar AbdulWahhab
  */
 import java.util.Iterator;
 import java.util.Map;

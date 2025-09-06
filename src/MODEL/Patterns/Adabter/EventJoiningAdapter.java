@@ -19,7 +19,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author mahallawy
+ * @author David
  */
 public class EventJoiningAdapter implements TicketGenerator {
     private final VolunteeringDetailsDTO details;

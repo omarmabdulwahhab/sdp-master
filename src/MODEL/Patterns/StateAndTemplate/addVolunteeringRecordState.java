@@ -15,7 +15,8 @@ import java.sql.SQLException;
 
 /**
  *
- * @author hussien
+ * @author Omar AbdulWahhab
+  
  */
 public class addVolunteeringRecordState implements EventJoiningState{
        

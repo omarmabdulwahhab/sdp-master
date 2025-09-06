@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author hussien
+ * @author Omar AbdulWahhab
  */
 public class checkAvailabilityState implements EventJoiningState {
 

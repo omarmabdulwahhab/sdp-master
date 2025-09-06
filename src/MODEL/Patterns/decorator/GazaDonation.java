@@ -6,7 +6,7 @@ package MODEL.Patterns.decorator;
 
 /**
  *
- * @author mahallawy
+ * @author AbdulHay
  */
 public class GazaDonation extends DonationAddon {
     private double additionalAmount;

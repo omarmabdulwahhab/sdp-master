@@ -11,7 +11,7 @@ import View.UserView;
 
 /**
  *
- * @author hussien
+ * @author Omar AbdulWahhab
  */
 public interface EventJoiningState {
         void handle(EventJoiningTemplateContext context);

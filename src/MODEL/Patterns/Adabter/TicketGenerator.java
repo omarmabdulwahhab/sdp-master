@@ -6,7 +6,7 @@ package MODEL.Patterns.Adabter;
 
 /**
  *
- * @author mahallawy
+ * @author David
  */
 public interface TicketGenerator {
  String generateTicket(); // Generate a ticket in text format

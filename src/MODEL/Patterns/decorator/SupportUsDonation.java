@@ -7,7 +7,7 @@ package MODEL.Patterns.decorator;
 
 /**
  *
- * @author mahallawy
+ * @author AbdulHay
  */
 public class SupportUsDonation implements IDonation {
     private double amount;

@@ -6,7 +6,7 @@ package MODEL.Patterns.Proxy;
 
 /**
  *
- * @author Eslam
+ * @author AbdulHay
  */
 public interface IBook {
     void display();

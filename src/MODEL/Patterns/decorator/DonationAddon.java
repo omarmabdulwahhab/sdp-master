@@ -6,7 +6,7 @@ package MODEL.Patterns.decorator;
 
 /**
  *
- * @author mahallawy
+ * @author AbdulHay
  */
 public abstract class DonationAddon implements IDonation {
     protected IDonation donation;

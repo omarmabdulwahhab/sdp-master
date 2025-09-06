@@ -9,7 +9,7 @@ import View.UserView;
 
 /**
  *
- * @author hussien
+ * @author Omar AbdulWahhab
  */
 public class WorkshopEventJoiningContext extends EventJoiningTemplateContext{
 

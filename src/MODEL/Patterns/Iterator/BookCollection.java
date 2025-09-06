@@ -6,7 +6,7 @@ package MODEL.Patterns.Iterator;
 
 /**
  *
- * @author hussien
+ * @author Omar AbdulWahhab
  */
 public interface BookCollection {
    BookIterator createIterator();

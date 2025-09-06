@@ -6,7 +6,7 @@ package MODEL.Patterns.decorator;
 
 /**
  *
- * @author Omar
+ * @author AbdulHay
  */
 public interface IDonation {
     double getAmount();

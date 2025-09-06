@@ -13,7 +13,7 @@ import View.UtilityHandler;
 
 /**
  *
- * @author hussien
+ * @author Omar AbdulWahhab
  */
 public class handleWorkshopEventState implements EventJoiningState {
 

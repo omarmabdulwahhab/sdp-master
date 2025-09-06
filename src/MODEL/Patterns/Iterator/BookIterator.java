@@ -8,7 +8,7 @@ import MODEL.DTO.Book.BookDTO;
 
 /**
  *
- * @author hussien
+ * @author Omar AbdulWahhab
  */
 public interface BookIterator {
     

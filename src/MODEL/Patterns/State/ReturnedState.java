@@ -11,7 +11,7 @@ import MODEL.Patterns.Iterator.BorrowedBookCollection;
 
 /**
  *
- * @author hussien
+ * @author Omar AbdulWahhab
  */
 
 public class ReturnedState implements BookState {
